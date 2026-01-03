@@ -1,5 +1,6 @@
 version: 1
 frontend:
+  framework: static
   phases:
     preBuild:
       commands:
@@ -14,3 +15,4 @@ frontend:
   cache:
     paths:
       - node_modules/**/*
+
