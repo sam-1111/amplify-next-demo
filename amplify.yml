@@ -1,9 +1,5 @@
 version: 1
 frontend:
-<<<<<<< HEAD
-  
-=======
->>>>>>> 0bd2f4e58a184f492dc67f040755363c03ba5cb8
   phases:
     preBuild:
       commands:
